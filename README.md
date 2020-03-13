@@ -7,4 +7,8 @@ Pratice of Android Studio
 
 어댑터는 데이터를 관리하면서 동시에 위젯을 통해 보일 각각의 아이템을 위해 뷰를 만들어줌.
 
+<div><div>
+  <img src="
+<div><div>
+
 (src: https://www.edwith.org/boostcourse-android/lecture/17057/)
